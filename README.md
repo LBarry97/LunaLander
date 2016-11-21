@@ -1,2 +1,3 @@
 # LunaLander
-Juego (html y css)
+
+##Cambios que se han realizado en el proyecto:
