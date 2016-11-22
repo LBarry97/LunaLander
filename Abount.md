@@ -9,8 +9,8 @@ El proyecto fue programado apartir de las instrucciones vistas a clase.
 
 De los compañeros de clase.
 
-Foros de internet, principalmente:
-[La W3Schools] (http://www.w3schools.com/)
+Foros de internet, principalmente
+[W3Schools] (http://www.w3schools.com/)
 
 
 
