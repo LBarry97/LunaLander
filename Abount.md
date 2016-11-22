@@ -1,5 +1,5 @@
 
-#Datos de proyecto
+#Datos del proyecto
 
 ##Programador:
 Este proyecto ha sido programado por Lansana Barry
